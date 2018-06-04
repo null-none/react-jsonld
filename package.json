@@ -1,0 +1,13 @@
+{
+  "name": "react-jsonld",
+  "version": "1.0.0",
+  "description": "json-ld with ReactJS",
+  "main": "json-ld.js",
+  "keywords": [
+    "jsonld",
+    "react"
+  ],
+  "url" : "https://github.com/null-none/react-jsonld",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
